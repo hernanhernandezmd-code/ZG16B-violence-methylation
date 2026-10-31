@@ -1,0 +1,11 @@
+cohorte,grupo,n,expuestos,edad_mediana,edad_rango,tss200_ok,tss1500_ok,concordancia,p_binomial
+descubrimiento,todos,116,,11.5,1.5-64.0,4,4,8 de 8,0.00391
+descubrimiento,menores de 10 años,51,,5,1.5-9.0,4,4,8 de 8,0.00391
+descubrimiento,10 a 19 años,20,,12.5,10.0-18.0,4,4,8 de 8,0.00391
+descubrimiento,20 años o más,45,,34,20.0-64.0,4,4,8 de 8,0.00391
+"réplica (adolescentes, saliva)",todos,123,61,14.1,8.8-20.0,4,3,7 de 8,0.0352
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),61,35,11.7,8.8-14.1,0,0,0 de 8,1
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),62,26,15.7,14.1-20.0,4,4,8 de 8,0.00391
+"tercera (niños, bucal)",todos,85,36,5.3,0.3-9.9,0,0,0 de 8,1
+"tercera (niños, bucal)",mitad menor (edad < 5.3),42,13,3.1,0.3-5.2,1,0,1 de 8,0.996
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),43,23,6.5,5.3-9.9,0,0,0 de 8,1

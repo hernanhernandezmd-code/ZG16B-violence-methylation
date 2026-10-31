@@ -1,0 +1,4 @@
+Cohort,Tissue,Ancestry,n,Exposure,Groups,Sex (female/male),"Age, years (M, SD)",Median epithelial fraction
+Discovery (GSE226085),Buccal epithelium,Syrian,116,"War-related violence (0-19, continuous)",42 extended families,79/37,17.94 (14.80),0.815
+Replication (GSE239521),Saliva,Japanese,123,Child maltreatment (binary),61 exposed / 62 comparison,47/76,13.80 (2.78),0.270
+Third (GSE239520),Buccal epithelium,Japanese,85,Child maltreatment (binary),36 exposed / 49 comparison,38/47,4.99 (2.33),0.862

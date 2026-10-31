@@ -1,0 +1,30 @@
+Academic Non-Commercial License with Citation Requirement
+
+Copyright (c) 2026 Hernán Guillermo Hernández Hincapié, Efraín Hernando Pinzón Reyes and Elkin René Llanez Anaya. All rights reserved.
+
+1. Scope. This license applies to the source code in this repository (the "Software"). The figures
+   and tables in outputs/ document the analysis of the article cited below; their reuse is governed by
+   the copyright of that article and they are not licensed here.
+
+2. Permitted use. Any person may view, download and run the Software, and modify it for their own
+   use, free of charge, solely for non-commercial research, teaching, peer review, or verification of
+   the results of the article.
+
+3. Citation. Any publication, thesis, presentation, report or software that uses the Software, in
+   whole or in part, or results obtained with it or with a modified version of it, must cite the
+   article and this repository as indicated in CITATION.cff and in README.md.
+
+4. Restrictions. Without prior written permission from the copyright holders, no person may:
+   (a) use the Software, in whole or in part, for any commercial purpose;
+   (b) redistribute, publish, sublicense or sell the Software or any modified version of it, except
+       for forks created within GitHub as allowed by the GitHub Terms of Service, which must keep this
+       file unchanged;
+   (c) remove or alter this notice.
+
+5. Requests for permission: Hernán Guillermo Hernández Hincapié, hernan.hernandez.md@gmail.com.
+
+6. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+   INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
+   OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

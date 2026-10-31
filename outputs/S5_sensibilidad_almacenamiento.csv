@@ -1,0 +1,17 @@
+cpg,region,dir_pred,beta,p,dir_ok,corrida
+cg12475088,TSS1500,1,-0.2113,0.00973,FALSE,completa
+cg04543077,TSS1500,1,-0.1846,0.0245,FALSE,completa
+cg08829024,TSS1500,1,-0.2392,0.0306,FALSE,completa
+cg19128189,TSS1500,1,-0.0884,0.354,FALSE,completa
+cg06274007,TSS200,-1,0.2202,0.367,FALSE,completa
+cg03096107,TSS200,-1,0.1724,0.385,FALSE,completa
+cg01037823,TSS200,-1,0.0974,0.557,FALSE,completa
+cg16934444,TSS200,-1,0.0426,0.766,FALSE,completa
+cg19128189,TSS1500,1,-0.3182,0.00205,FALSE,sin almacenamiento largo
+cg08829024,TSS1500,1,-0.3667,0.00646,FALSE,sin almacenamiento largo
+cg12475088,TSS1500,1,-0.2542,0.00995,FALSE,sin almacenamiento largo
+cg04543077,TSS1500,1,-0.166,0.0895,FALSE,sin almacenamiento largo
+cg16934444,TSS200,-1,0.4188,0.00766,FALSE,sin almacenamiento largo
+cg03096107,TSS200,-1,0.5215,0.0327,FALSE,sin almacenamiento largo
+cg01037823,TSS200,-1,0.3671,0.0625,FALSE,sin almacenamiento largo
+cg06274007,TSS200,-1,0.5349,0.072,FALSE,sin almacenamiento largo

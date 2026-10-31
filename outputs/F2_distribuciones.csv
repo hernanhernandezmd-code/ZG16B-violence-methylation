@@ -1,0 +1,21 @@
+set,category,percent,panel
+Found,Intergenic,36.3636363636364,Position relative to gene
+Tested,Intergenic,28.1092023122958,Position relative to gene
+Found,Other genic,0,Position relative to gene
+Tested,Other genic,2.09723326064954,Position relative to gene
+Found,Gene body,31.8181818181818,Position relative to gene
+Tested,Gene body,35.0958135490752,Position relative to gene
+Found,Promoter,31.8181818181818,Position relative to gene
+Tested,Promoter,34.6977508779795,Position relative to gene
+Found,OpenSea,63.6363636363636,Relation to CpG island
+Tested,OpenSea,53.6432244434934,Relation to CpG island
+Found,S_Shelf,9.09090909090909,Relation to CpG island
+Tested,S_Shelf,3.43801158865046,Relation to CpG island
+Found,N_Shelf,4.54545454545455,Relation to CpG island
+Tested,N_Shelf,3.7075530014333,Relation to CpG island
+Found,S_Shore,4.54545454545455,Relation to CpG island
+Tested,S_Shore,8.34858334522087,Relation to CpG island
+Found,N_Shore,9.09090909090909,Relation to CpG island
+Tested,N_Shore,9.74316126972482,Relation to CpG island
+Found,Island,9.09090909090909,Relation to CpG island
+Tested,Island,21.1194663514771,Relation to CpG island

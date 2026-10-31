@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, in whole or in part, you must cite the article below and this repository (see LICENSE)."
+title: "ZG16B-violence-methylation: analysis code"
+type: software
+authors:
+  - family-names: "Hernández Hincapié"
+    given-names: "Hernán Guillermo"
+    orcid: "https://orcid.org/0000-0001-8479-6269"
+    email: "hernan.hernandez.md@gmail.com"
+    affiliation: "Universidad Santo Tomás, Bucaramanga, Colombia"
+  - family-names: "Pinzón Reyes"
+    given-names: "Efraín Hernando"
+    orcid: "https://orcid.org/0000-0002-8131-2772"
+    affiliation: "Universidad de Santander (UDES), Bucaramanga, Colombia"
+  - family-names: "Llanez Anaya"
+    given-names: "Elkin René"
+    orcid: "https://orcid.org/0009-0002-9962-9409"
+    affiliation: "Universidad de Santander (UDES), Bucaramanga, Colombia"
+repository-code: "https://github.com/hernanhernandezmd-code/ZG16B-violence-methylation"
+license-url: "https://github.com/hernanhernandezmd-code/ZG16B-violence-methylation/blob/master/LICENSE"
+version: "1.0"
+date-released: "2026-10-31"
+preferred-citation:
+  type: article
+  title: "Aberrant ZG16B Promoter DNA Methylation in Oral Tissue of Individuals Exposed to Interpersonal Violence: an epigenome-wide analysis of graded exposure with directional replication"
+  authors:
+    - family-names: "Hernández Hincapié"
+      given-names: "Hernán Guillermo"
+      orcid: "https://orcid.org/0000-0001-8479-6269"
+    - family-names: "Pinzón Reyes"
+      given-names: "Efraín Hernando"
+      orcid: "https://orcid.org/0000-0002-8131-2772"
+    - family-names: "Llanez Anaya"
+      given-names: "Elkin René"
+      orcid: "https://orcid.org/0009-0002-9962-9409"
+  status: submitted
+  year: 2026

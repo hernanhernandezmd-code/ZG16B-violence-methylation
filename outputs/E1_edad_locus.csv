@@ -1,0 +1,81 @@
+cohorte,grupo,cpg,region,dir_pred,coef,p,dir_ok
+descubrimiento,todos,cg01037823,TSS200,-1,-0.0484,5.69e-07,TRUE
+descubrimiento,todos,cg03096107,TSS200,-1,-0.0483,9.12e-07,TRUE
+descubrimiento,todos,cg04543077,TSS1500,1,0.0228,0.00042,TRUE
+descubrimiento,todos,cg06274007,TSS200,-1,-0.1145,2.49e-07,TRUE
+descubrimiento,todos,cg08829024,TSS1500,1,0.0314,1.87e-05,TRUE
+descubrimiento,todos,cg12475088,TSS1500,1,0.019,0.000106,TRUE
+descubrimiento,todos,cg16934444,TSS200,-1,-0.0391,6.51e-06,TRUE
+descubrimiento,todos,cg19128189,TSS1500,1,0.0162,0.00892,TRUE
+descubrimiento,menores de 10 años,cg01037823,TSS200,-1,-0.0376,0.00732,TRUE
+descubrimiento,menores de 10 años,cg03096107,TSS200,-1,-0.0358,0.0199,TRUE
+descubrimiento,menores de 10 años,cg04543077,TSS1500,1,0.0135,0.17,TRUE
+descubrimiento,menores de 10 años,cg06274007,TSS200,-1,-0.0967,0.00609,TRUE
+descubrimiento,menores de 10 años,cg08829024,TSS1500,1,0.0235,0.0201,TRUE
+descubrimiento,menores de 10 años,cg12475088,TSS1500,1,0.012,0.0572,TRUE
+descubrimiento,menores de 10 años,cg16934444,TSS200,-1,-0.0309,0.00517,TRUE
+descubrimiento,menores de 10 años,cg19128189,TSS1500,1,0.0146,0.109,TRUE
+descubrimiento,10 a 19 años,cg01037823,TSS200,-1,-0.0586,0.0144,TRUE
+descubrimiento,10 a 19 años,cg03096107,TSS200,-1,-0.0616,0.00437,TRUE
+descubrimiento,10 a 19 años,cg04543077,TSS1500,1,0.0334,0.0697,TRUE
+descubrimiento,10 a 19 años,cg06274007,TSS200,-1,-0.1418,0.00774,TRUE
+descubrimiento,10 a 19 años,cg08829024,TSS1500,1,0.0371,0.0828,TRUE
+descubrimiento,10 a 19 años,cg12475088,TSS1500,1,0.0208,0.123,TRUE
+descubrimiento,10 a 19 años,cg16934444,TSS200,-1,-0.0462,0.033,TRUE
+descubrimiento,10 a 19 años,cg19128189,TSS1500,1,0.0183,0.283,TRUE
+descubrimiento,20 años o más,cg01037823,TSS200,-1,-0.0586,0.000289,TRUE
+descubrimiento,20 años o más,cg03096107,TSS200,-1,-0.0603,0.00021,TRUE
+descubrimiento,20 años o más,cg04543077,TSS1500,1,0.0295,0.00372,TRUE
+descubrimiento,20 años o más,cg06274007,TSS200,-1,-0.1262,0.000213,TRUE
+descubrimiento,20 años o más,cg08829024,TSS1500,1,0.0324,0.00805,TRUE
+descubrimiento,20 años o más,cg12475088,TSS1500,1,0.025,0.003,TRUE
+descubrimiento,20 años o más,cg16934444,TSS200,-1,-0.0494,0.00269,TRUE
+descubrimiento,20 años o más,cg19128189,TSS1500,1,0.0149,0.116,TRUE
+"réplica (adolescentes, saliva)",todos,cg01037823,TSS200,-1,-0.0421,0.573,TRUE
+"réplica (adolescentes, saliva)",todos,cg03096107,TSS200,-1,-0.0792,0.456,TRUE
+"réplica (adolescentes, saliva)",todos,cg04543077,TSS1500,1,0.0195,0.561,TRUE
+"réplica (adolescentes, saliva)",todos,cg06274007,TSS200,-1,-0.0709,0.571,TRUE
+"réplica (adolescentes, saliva)",todos,cg08829024,TSS1500,1,0.0136,0.792,TRUE
+"réplica (adolescentes, saliva)",todos,cg12475088,TSS1500,1,0.0309,0.441,TRUE
+"réplica (adolescentes, saliva)",todos,cg16934444,TSS200,-1,-0.0178,0.839,TRUE
+"réplica (adolescentes, saliva)",todos,cg19128189,TSS1500,1,-0.0341,0.559,FALSE
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),cg01037823,TSS200,-1,0.1021,0.338,FALSE
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),cg03096107,TSS200,-1,0.098,0.487,FALSE
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),cg04543077,TSS1500,1,-0.0164,0.706,FALSE
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),cg06274007,TSS200,-1,0.1495,0.381,FALSE
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),cg08829024,TSS1500,1,-0.0753,0.338,FALSE
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),cg12475088,TSS1500,1,-0.0086,0.883,FALSE
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),cg16934444,TSS200,-1,0.1657,0.149,FALSE
+"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),cg19128189,TSS1500,1,-0.1824,0.0372,FALSE
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),cg01037823,TSS200,-1,-0.1497,0.152,TRUE
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),cg03096107,TSS200,-1,-0.2375,0.138,TRUE
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),cg04543077,TSS1500,1,0.068,0.176,TRUE
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),cg06274007,TSS200,-1,-0.2326,0.209,TRUE
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),cg08829024,TSS1500,1,0.0777,0.268,TRUE
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),cg12475088,TSS1500,1,0.0543,0.333,TRUE
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),cg16934444,TSS200,-1,-0.1783,0.184,TRUE
+"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),cg19128189,TSS1500,1,0.0836,0.296,TRUE
+"tercera (niños, bucal)",todos,cg01037823,TSS200,-1,0.0974,0.562,FALSE
+"tercera (niños, bucal)",todos,cg03096107,TSS200,-1,0.1724,0.393,FALSE
+"tercera (niños, bucal)",todos,cg04543077,TSS1500,1,-0.1846,0.0217,FALSE
+"tercera (niños, bucal)",todos,cg06274007,TSS200,-1,0.2202,0.376,FALSE
+"tercera (niños, bucal)",todos,cg08829024,TSS1500,1,-0.2392,0.0305,FALSE
+"tercera (niños, bucal)",todos,cg12475088,TSS1500,1,-0.2113,0.00827,FALSE
+"tercera (niños, bucal)",todos,cg16934444,TSS200,-1,0.0426,0.768,FALSE
+"tercera (niños, bucal)",todos,cg19128189,TSS1500,1,-0.0884,0.349,FALSE
+"tercera (niños, bucal)",mitad menor (edad < 5.3),cg01037823,TSS200,-1,0.0538,0.828,FALSE
+"tercera (niños, bucal)",mitad menor (edad < 5.3),cg03096107,TSS200,-1,0.1912,0.521,FALSE
+"tercera (niños, bucal)",mitad menor (edad < 5.3),cg04543077,TSS1500,1,-0.2528,0.0442,FALSE
+"tercera (niños, bucal)",mitad menor (edad < 5.3),cg06274007,TSS200,-1,0.2406,0.527,FALSE
+"tercera (niños, bucal)",mitad menor (edad < 5.3),cg08829024,TSS1500,1,-0.206,0.215,FALSE
+"tercera (niños, bucal)",mitad menor (edad < 5.3),cg12475088,TSS1500,1,-0.2281,0.0536,FALSE
+"tercera (niños, bucal)",mitad menor (edad < 5.3),cg16934444,TSS200,-1,-0.119,0.56,TRUE
+"tercera (niños, bucal)",mitad menor (edad < 5.3),cg19128189,TSS1500,1,-0.0444,0.775,FALSE
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),cg01037823,TSS200,-1,0.0827,0.77,FALSE
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),cg03096107,TSS200,-1,0.1259,0.709,FALSE
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),cg04543077,TSS1500,1,-0.0711,0.57,FALSE
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),cg06274007,TSS200,-1,0.1034,0.798,FALSE
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),cg08829024,TSS1500,1,-0.2142,0.238,FALSE
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),cg12475088,TSS1500,1,-0.1356,0.305,FALSE
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),cg16934444,TSS200,-1,0.1899,0.448,FALSE
+"tercera (niños, bucal)",mitad mayor (edad >= 5.3),cg19128189,TSS1500,1,-0.1477,0.315,FALSE

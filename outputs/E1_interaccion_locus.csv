@@ -1,0 +1,25 @@
+cohorte,cpg,region,dir_pred,int,p_int,hacia_pred
+descubrimiento,cg01037823,TSS200,-1,-0.000771,0.214,TRUE
+descubrimiento,cg03096107,TSS200,-1,-0.000865,0.171,TRUE
+descubrimiento,cg04543077,TSS1500,1,0.000496,0.246,TRUE
+descubrimiento,cg06274007,TSS200,-1,-0.00097,0.495,TRUE
+descubrimiento,cg08829024,TSS1500,1,0.000147,0.758,TRUE
+descubrimiento,cg12475088,TSS1500,1,0.000185,0.567,TRUE
+descubrimiento,cg16934444,TSS200,-1,-0.000567,0.314,TRUE
+descubrimiento,cg19128189,TSS1500,1,-5.79e-06,0.989,FALSE
+"réplica (adolescentes, saliva)",cg01037823,TSS200,-1,-0.0446,0.102,TRUE
+"réplica (adolescentes, saliva)",cg03096107,TSS200,-1,-0.0547,0.159,TRUE
+"réplica (adolescentes, saliva)",cg04543077,TSS1500,1,0.0138,0.26,TRUE
+"réplica (adolescentes, saliva)",cg06274007,TSS200,-1,-0.0803,0.0782,TRUE
+"réplica (adolescentes, saliva)",cg08829024,TSS1500,1,0.0268,0.155,TRUE
+"réplica (adolescentes, saliva)",cg12475088,TSS1500,1,0.0103,0.483,TRUE
+"réplica (adolescentes, saliva)",cg16934444,TSS200,-1,-0.0768,0.0158,TRUE
+"réplica (adolescentes, saliva)",cg19128189,TSS1500,1,0.0553,0.0089,TRUE
+"tercera (niños, bucal)",cg01037823,TSS200,-1,-0.0221,0.787,TRUE
+"tercera (niños, bucal)",cg03096107,TSS200,-1,-0.0574,0.557,TRUE
+"tercera (niños, bucal)",cg04543077,TSS1500,1,0.0423,0.269,TRUE
+"tercera (niños, bucal)",cg06274007,TSS200,-1,-0.0577,0.632,TRUE
+"tercera (niños, bucal)",cg08829024,TSS1500,1,0.051,0.334,TRUE
+"tercera (niños, bucal)",cg12475088,TSS1500,1,0.048,0.204,TRUE
+"tercera (niños, bucal)",cg16934444,TSS200,-1,-0.0215,0.759,TRUE
+"tercera (niños, bucal)",cg19128189,TSS1500,1,0.0447,0.327,TRUE
