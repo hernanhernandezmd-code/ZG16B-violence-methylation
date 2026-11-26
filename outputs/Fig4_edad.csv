@@ -1,0 +1,32 @@
+panel,cohorte,cpg,region,pos,int,p_int,hacia_pred,z
+a,descubrimiento,cg01037823,TSS200,2879998,-0.000771,0.214,TRUE,0.67
+a,"réplica (adolescentes, saliva)",cg01037823,TSS200,2879998,-0.0446,0.102,TRUE,0.991
+a,"tercera (niños, bucal)",cg01037823,TSS200,2879998,-0.0221,0.787,TRUE,0.104
+a,descubrimiento,cg03096107,TSS200,2880149,-0.000865,0.171,TRUE,0.767
+a,"réplica (adolescentes, saliva)",cg03096107,TSS200,2880149,-0.0547,0.159,TRUE,0.799
+a,"tercera (niños, bucal)",cg03096107,TSS200,2880149,-0.0574,0.557,TRUE,0.254
+a,descubrimiento,cg04543077,TSS1500,2879544,0.000496,0.246,TRUE,0.609
+a,"réplica (adolescentes, saliva)",cg04543077,TSS1500,2879544,0.0138,0.26,TRUE,0.585
+a,"tercera (niños, bucal)",cg04543077,TSS1500,2879544,0.0423,0.269,TRUE,0.57
+a,descubrimiento,cg06274007,TSS200,2880167,-0.00097,0.495,TRUE,0.305
+a,"réplica (adolescentes, saliva)",cg06274007,TSS200,2880167,-0.0803,0.0782,TRUE,1.107
+a,"tercera (niños, bucal)",cg06274007,TSS200,2880167,-0.0577,0.632,TRUE,0.199
+a,descubrimiento,cg08829024,TSS1500,2879393,0.000147,0.758,TRUE,0.12
+a,"réplica (adolescentes, saliva)",cg08829024,TSS1500,2879393,0.0268,0.155,TRUE,0.81
+a,"tercera (niños, bucal)",cg08829024,TSS1500,2879393,0.051,0.334,TRUE,0.476
+a,descubrimiento,cg12475088,TSS1500,2879417,0.000185,0.567,TRUE,0.246
+a,"réplica (adolescentes, saliva)",cg12475088,TSS1500,2879417,0.0103,0.483,TRUE,0.316
+a,"tercera (niños, bucal)",cg12475088,TSS1500,2879417,0.048,0.204,TRUE,0.69
+a,descubrimiento,cg16934444,TSS200,2880039,-0.000567,0.314,TRUE,0.503
+a,"réplica (adolescentes, saliva)",cg16934444,TSS200,2880039,-0.0768,0.0158,TRUE,1.801
+a,"tercera (niños, bucal)",cg16934444,TSS200,2880039,-0.0215,0.759,TRUE,0.12
+a,descubrimiento,cg19128189,TSS1500,2879220,-5.79e-06,0.989,FALSE,-0.005
+a,"réplica (adolescentes, saliva)",cg19128189,TSS1500,2879220,0.0553,0.0089,TRUE,2.051
+a,"tercera (niños, bucal)",cg19128189,TSS1500,2879220,0.0447,0.327,TRUE,0.485
+b,descubrimiento,menores de 10 años,,,,,,8
+b,descubrimiento,10 a 19 años,,,,,,8
+b,descubrimiento,20 años o más,,,,,,8
+b,"réplica (adolescentes, saliva)",mitad menor (edad < 14.1),,,,,,0
+b,"réplica (adolescentes, saliva)",mitad mayor (edad >= 14.1),,,,,,8
+b,"tercera (niños, bucal)",mitad menor (edad < 5.3),,,,,,1
+b,"tercera (niños, bucal)",mitad mayor (edad >= 5.3),,,,,,0
